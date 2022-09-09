@@ -1,6 +1,6 @@
-# Frontend Mentor - Testimonials grid section
+# Grid section
 
-Projeto desenvolvido a partir de design pertencente ao Frontend Mentor.
+Projeto desenvolvido a partir de design pertencente ao Frontend Mentor. https://www.frontendmentor.io/home
 
 Tecnologias usadas no projeto:
 
